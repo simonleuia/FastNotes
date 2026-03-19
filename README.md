@@ -41,8 +41,8 @@ FastNotes/
 cd react-native/HelloReactNative
 npm install
 npx expo start
-Press **a** to open in Android emulator
 ```
+Press **a** to open in Android emulator
 
 **Flutter**
 ```
